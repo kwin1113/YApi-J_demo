@@ -9,7 +9,7 @@ import xyz.kwin.yapi.model.*;
 /**
  * Spring Controller
  *
- * @author 蓝波 <lanbo.jing@tuya.com>
+ * @author kwin
  * @since 2022/1/1 7:54 PM
  */
 @RestController
